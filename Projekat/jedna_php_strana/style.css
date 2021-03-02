@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url(pozadina/pozadina.jpeg);
+    background-size: cover;
+}
+.carousel-item img {
+    position: relative;
+    left:10%;
+    width: 80%;
+    height: 250px;
+  
+}
+.nav-link:active{
+    font-size: 2em;
+}
+#footer-p{
+   font-size: 1.3em;
+   font-weight: 500;
+}
